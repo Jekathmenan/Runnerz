@@ -1,0 +1,44 @@
+{
+  "runs": [
+    {
+      "id": 1,
+      "title": "Monday Morning Run",
+      "startedOn": "2026-06-08T19:45:20.549388",
+      "completedOn": "2026-06-08T20:15:20.549388",
+      "miles": 5,
+      "location": "INDOOR"
+    },
+    {
+      "id": 2,
+      "title": "Tuesday Evening Run",
+      "startedOn": "2026-06-08T19:45:20.549388",
+      "completedOn": "2026-06-08T20:15:20.549388",
+      "miles": 5,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 3,
+      "title": "Wednesday Morning Run",
+      "startedOn": "2026-06-08T19:45:20.549388",
+      "completedOn": "2026-06-08T20:15:20.549388",
+      "miles": 5,
+      "location": "INDOOR"
+    },
+    {
+      "id": 4,
+      "title": "bulk Morning Run",
+      "startedOn": "2026-06-07T21:04:53.627834",
+      "completedOn": "2026-06-08T21:34:53.627834",
+      "miles": 6,
+      "location": "INDOOR"
+    },
+    {
+      "id": 5,
+      "title": "bulk Morning Run",
+      "startedOn": "2026-06-07T21:04:53.627834",
+      "completedOn": "2026-06-08T21:34:53.627834",
+      "miles": 6,
+      "location": "INDOOR"
+    }
+  ]
+}
